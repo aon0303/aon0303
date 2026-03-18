@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Subin
 
 🎨 Frontend Developer  
+
 💻 Passionate about building clean and user-friendly web interfaces  
 
 
@@ -21,11 +22,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aon0303&show_icons=true&theme=default)
 
 ---
 
