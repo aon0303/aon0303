@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Subin
+# 👋 I’m Subin Park, a frontend developer who crafts user experiences alongside AI.
 
-🎨 Frontend Developer  
+
 
 💻 Passionate about building clean and user-friendly web interfaces  
 
@@ -16,6 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
